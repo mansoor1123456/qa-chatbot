@@ -1,4 +1,6 @@
 # qa-chatbot
 
-📫 Contact
-mansoordigitalworld@gmail.com https://www.linkedin.com/in/mansoor-ishaq-7a1ba92bb https://www.fiverr.com/designbymansoor
+## 📫 Contact
+mansoordigitalworld@gmail.com
+www.linkedin.com/in/mansoor-ishaq
+https://www.fiverr.com/designbymansoor
